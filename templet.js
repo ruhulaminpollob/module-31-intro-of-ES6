@@ -8,3 +8,6 @@ console.log(sum);
 const backTik=`rohim korim abul
 tabul aayub
 kabul`
+console.log(backTik);
+const backTikSum=`summery of ${num1} and ${num2} is ${num1+num2}`
+console.log(backTikSum);
