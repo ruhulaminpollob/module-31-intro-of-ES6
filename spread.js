@@ -11,3 +11,6 @@ console.log(numbers2);
 
 const number4=[43, ...numbers, 543]
 console.log(number4);
+const nayikas=['mousumi' , 'popy' ,'shabnur', 'purnima' ]
+const array4=[...nayikas];
+console.log(array4);
