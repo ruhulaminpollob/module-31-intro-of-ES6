@@ -12,3 +12,10 @@ function sum(num1=0, num2=0) {
     return total;
 }
 console.log(sum(2));
+
+
+function fullName(firstName='mohammad', lastName='hossain') {
+    const name=firstName + ' ' + lastName;
+    return name;
+}
+console.log(fullName('pollob'));
