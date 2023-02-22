@@ -12,5 +12,9 @@ const add4=(num1,num2,num3)=>{
     const multiply=sum*2;
     return multiply;
 }
-const result=add3(5);
+
+//single line no parameter arrow function 
+
+const add5=()=>'this is no parameter arrow function'
+const result=add5(5);
 console.log(result);
