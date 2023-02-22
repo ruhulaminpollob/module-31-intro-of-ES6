@@ -8,3 +8,6 @@ numbers.push(55)
 numbers2.push(77)
 console.log(numbers);
 console.log(numbers2);
+
+const number4=[43, ...numbers, 543]
+console.log(number4);
