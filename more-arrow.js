@@ -2,5 +2,8 @@
 const add1 =(a, b, c, d)=> a+b+c+d;
 
 
-const result=add1(1,2,3,4);
+//single line single parameter arrow function
+const add2 =(num)=>num*2;
+
+const result=add2(5);
 console.log(result);
