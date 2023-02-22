@@ -10,3 +10,7 @@ const fish={
 
 const {name,age}=fish;
 console.log(age);
+// destructuring array
+const players=['masrafi', 'messi', 'rolando','pollob'];
+const [bangladeshi, favorite, portugal, ami]=players;
+console.log(favorite,ami);
